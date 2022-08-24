@@ -34,12 +34,8 @@
 #include "BluetoothSerial.h"
 BluetoothSerial SerialBT;
 #define DEVICENAME "niseJJY"
-//char ssid[] = "rmtether";
-//char passwd[] = "tsunagasete";
-char ssid[] = "earthlink";
-char passwd[] = "mieiamici";
-//char ssid[] = "802elecom_2.4GHz";
-//char passwd[] = "DISCCSLAP";
+char ssid[] = "SSID";
+char passwd[] = "PASSWORD";
 #define TZ (9 * 60 * 60) /*JST*/
 
 //...................................................................
